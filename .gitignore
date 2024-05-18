@@ -2,3 +2,9 @@
 .smart-connections/
 Templates/
 .obsidian/plugins/smart-connections/data.json
+
+
+
+
+# Ignore Smart Connections folder
+.smart-connections
