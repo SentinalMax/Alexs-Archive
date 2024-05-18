@@ -1,4 +1,5 @@
 11/30/23 - Current
+
 *A comprehensive list of definitions and resources for philosophical debates.*
 ## Terminology
 
