@@ -17,7 +17,7 @@ Here McLatchie claims "...The structure of the genetic code is set up to mitigat
 
 ### Evolving a Genetic Code
 
-Here McLatchie presents the idea that mutation changes would be detrimental & would not allow for the evolution of genetic code. But he does not posit an alternative hypothesis instead he just criticizes this point just and moves on.
+Here McLatchie presents the idea that mutation changes would be detrimental & would not allow for the evolution of genetic code. But he does not posit an alternative hypothesis instead he just criticizes this point and moves on.
 
 ### [[Quick Debate Dictionary#^d63aab|Irreducible Complexity]]
 ^ada787
