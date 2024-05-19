@@ -5,7 +5,7 @@ tags:
   - teleology
 ---
 ---
-The most prominent form of the argument, as defended by William Lane Craig, states the Kalam cosmological argument as the following [syllogism](https://en.wikipedia.org/wiki/Syllogism "Syllogism")
+The most prominent form of the argument, as defended by William Lane Craig, states the Kalam cosmological argument as the following [syllogism](https://en.wikipedia.org/wiki/Syllogism "Syllogism"):
 
 P1) Everything that begins to exist has a cause.
 P2) The [universe](https://en.wikipedia.org/wiki/Universe "Universe") began to exist.
@@ -16,7 +16,7 @@ P3) Therefore, the universe has a cause.
 2. While it would prove the universe had a cause, it wouldn’t prove that this cause itself was without a cause (it wouldn't prove that a first cause existed)
 ### Logical Flaws
 
-* **Equivocation fallacy** - switches between two different definitions of the universe
+* **[[Quick Debate Dictionary#^8cc9a8|Equivocation Fallacy]]** - switches between two different definitions of the universe
 	P2) "scientific definition of the universe" - all matter space and time
 	P3) "colloquial definition" - everything that exists, has existed and will exist
 

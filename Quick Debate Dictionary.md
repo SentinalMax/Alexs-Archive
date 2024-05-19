@@ -69,6 +69,11 @@
 
 * **Sunk-cost Fallacy** - The phenomenon whereby a person is reluctant to abandon a strategy or course of action because they have invested heavily in it, even when it is clear that abandonment would be more beneficial
 
+* **Ad populum Fallacy** - A [fallacious argument](https://en.wikipedia.org/wiki/Fallacy "Fallacy") which is based on claiming a truth or affirming something is good because many people think so
+
+* [**Equivocation Fallacy**](https://www.txst.edu/philosophy/resources/fallacy-definitions/Equivocation.html) - Occurs when a key term or phrase in an argument is used in an ambiguous way, with one meaning in one portion of the argument and then another meaning in another portion of the argument. ^8cc9a8
+	* Example: “I have the right to watch "The Real World."  Therefore it's right for me to watch the show.  So, I think I'll watch this "Real World" marathon tonight instead of studying for my exam.”
+
 * **Occam's razor** - If you have two competing ideas to explain the same phenomenon, you should prefer the simpler one. (Appeal to parsimony)
 
 * **Epistemic solipsism** - The claim that one can only be sure of the existence of one's mind. The existence of other minds and the external world is not necessarily rejected but one cannot be sure of its existence
