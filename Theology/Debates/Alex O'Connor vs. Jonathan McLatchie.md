@@ -19,7 +19,9 @@ Here McLatchie claims "...The structure of the genetic code is set up to mitigat
 
 Here McLatchie presents the idea that mutation changes would be detrimental & would not allow for the evolution of genetic code. But he does not posit an alternative hypothesis instead he just criticizes this point just and moves on.
 
-### [[Irreducible Complexity]]
+### [[Quick Debate Dictionary#^d63aab|Irreducible Complexity]]
+
+^ada787
 
 **Michael Behe's Definition:** "By irreducibly complex I mean a single system composed of several well-matched, interacting parts that contribute to the basic function, wherein the removal of any one of the parts causes the system to effectively cease functioning."
 
@@ -29,6 +31,10 @@ Behe makes a comparison to a mousetrap, which if you remove a part of the mouset
 
 Take for example the human eye, eyes began to exist as really simplistic photo receptors [[link to eye evolution here]] which could detect light and dark, this was a useful adaptation because it allowed organisms to adjust various functions in accordance with the time of day, including hunting, feeding, breeding, etc... Over time, the eye became more complex, endowing organisms with the potential to perceive their surrounding environment to a higher degree of accuracy.
 
+This serious flow in Behe's argument was brought to light by the [Kitzmiller v. Dover case](https://ncse.ngo/remembering-kitzmiller-v-dover#:~:text=In%202005%2C%20parents%2C%20teachers%2C,schools%20violates%20the%20U.S.%20Constitution.).
+* *"In 2005, parents, teachers, and scientists from around the country came together in **Kitzmiller v. Dover** to defend the integrity of the public science classroom. The result: a decision that teaching "intelligent design" in public schools violates the U.S. Constitution."*
+
 This notion has been debunked so many times.
 - [ ] #task Research / debunk irreducible complexity.
 
+Paused @ 9:47
