@@ -7,7 +7,7 @@
 - The evidence of biological design
 - The evidence for the truth of Christianity
 
-**Note:** Erroneously compares DNA information to computer data information. McLatchie makes the claim that because we witness the creation of new information (in a digital medium) by an intelligence this must mean that DNA was created by an intelligence. This is a derivation of [[Paley's Watchmaker Analogy.]]
+**Note:** Erroneously compares DNA information to computer data information. McLatchie makes the claim that because we witness the creation of new information (in a digital medium) by an intelligence this must mean that DNA was created by an intelligence. This is a derivation of [[Quick Debate Dictionary#^ab9749|Paley’s Watchmaker Analogy]].
 
 *"Paley argued that **just as a watch is a complex and intricate mechanism that implies the existence of a watchmaker**, the natural world is also a complex and intricate mechanism that implies the existence of a divine creator."* - [Study Mind](https://studymind.co.uk/questions/what-is-paley-s-watch-analogy/#:~:text=Paley%20argued%20that%20just%20as,existence%20of%20a%20divine%20creator.)
 
@@ -20,12 +20,11 @@ Here McLatchie claims "...The structure of the genetic code is set up to mitigat
 Here McLatchie presents the idea that mutation changes would be detrimental & would not allow for the evolution of genetic code. But he does not posit an alternative hypothesis instead he just criticizes this point just and moves on.
 
 ### [[Quick Debate Dictionary#^d63aab|Irreducible Complexity]]
-
 ^ada787
 
 **Michael Behe's Definition:** "By irreducibly complex I mean a single system composed of several well-matched, interacting parts that contribute to the basic function, wherein the removal of any one of the parts causes the system to effectively cease functioning."
 
-Behe makes a comparison to a mousetrap, which if you remove a part of the mousetrap it cannot function as a mousetrap. 
+Behe makes a comparison to a mousetrap, which if you remove a part of the mousetrap it cannot function as a mousetrap.
 
 **The problem:** Behe assumes that function is intrinsic to the object, but it is not. Objects can have multiple different functions. If you remove one or two pieces of a mousetrap it may no longer function as a mousetrap but it could function as other things like a tie clip or paper clip, etc... The point here is not that it'd be a good tie clip by the way. The main point is that none of this proves something that's "irreducibly complex" couldn't have come together from a small series of steps. It would've had to just have a different function before it came to have its current properties. 
 

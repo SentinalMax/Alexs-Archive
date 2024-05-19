@@ -77,6 +77,9 @@
 
 * **Social Contract Theory** - [Nearly as old as philosophy itself](https://iep.utm.edu/soc-cont/), is the view that persons’ moral and/or political obligations are dependent upon a contract or agreement among them to form the society in which they live
 
+* [**Paley’s Watchmaker Analogy**](https://studymind.co.uk/questions/what-is-paley-s-watch-analogy/#:~:text=Paley%20argued%20that%20just%20as,existence%20of%20a%20divine%20creator.) - *“Paley argued that **just as a watch is a complex and intricate mechanism that implies the existence of a watchmaker**, the natural world is also a complex and intricate mechanism that implies the existence of a divine creator.”* ^ab9749
+
+* [**Pascal’s Wager**](https://en.wikipedia.org/wiki/Pascal%27s_wager) - *”Pascal's Wager argues that it is more rational to believe in God than not, because if God exists, the believer gains eternal happiness, while the non-believer risks eternal damnation. Conversely, if God does not exist, the believer loses nothing significant, making belief the safer and more beneficial bet.”*
 ### Logic:
 
 1. **The Law of Identity** - Anything that has been determined to be true, must be identical to itself and different from other things.
