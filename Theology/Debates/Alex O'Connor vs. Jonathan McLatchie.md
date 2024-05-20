@@ -48,12 +48,26 @@ This notion has been debunked so many times.
 
 *“A nonbelief phenomenon could include patterns of nonbelief, such as the <mark style="background: #BBFABBA6;">geographic or temporal distribution of nonbelief</mark>, as well as different **kinds** of nonbelief, such as “nonresistant” or “reasonable” nonbelief.”* – [Passage](https://iep.utm.edu/divine-hiddenness-argument-against-gods-existence/#:~:text=A%20nonbelief%20phenomenon%20could%20include%20patterns%20of%20nonbelief%2C%20such%20as%20the%20geographic%20or%20temporal%20distribution%20of%20nonbelief%2C%20as%20well%20as%20different%20kinds%20of%20nonbelief%2C%20such%20as%20%E2%80%9Cnonresistant%E2%80%9D%20or%20%E2%80%9Creasonable%E2%80%9D%20nonbelief.)
 
-O’Connor outlines that some people are never introduced to the conception of the Christian god. 
+O’Connor outlines that some people, even who seek or try to find god (and are fully submissive to the idea and willing to do so) still do not *find* him. 
 
-P1) if there is a god he is perfectly loving
-P2) if a perfectly loving god exists non resistant non belief does not occur
-P3) non resistant non belief does occur
-P4) no perfectly loving god exists
-C) there is no god
+“If theism is to offer a sufficient account of reality then it must offer an account of what J.L. Schellenberg has famously labeled non-resistant non-belief, which he distinguished from resistant non-belief.”
 
-Paused @ 9:47
+* ***Resistant non-belief** - Those who purposely choose not to believe, for a myriad of reasons; stubbornness for example.
+
+* **Non-resistant non-belief** - People who’d like & are willing to believe in a god but have been presented no opportunity to do so. Those who have *knocked on the door* and received no answer. ^b1f408
+#### O’Connor’s *DH* Syllogism
+
+P1) If there is a god he is perfectly loving
+P2) If a perfectly loving god exists non-resistant non-belief does not occur
+P3) Non-resistant non-belief does occur
+P4) No perfectly loving god exists
+C) There is no god
+##### Breakdown:
+
+P1 - Appeals to God’s omni-benevolence property.
+P2 - A perfectly loving god (one that wants a relationship with everyone) would not permit non-resistant non-belief.
+P3 - Experiential evidence suggests people exist that have sought out God and not found him & continue to remain absent of his presence.
+P4 - Because a perfectly loving God would seek a relationship with those who want it, a perfectly loving God does not exist
+C - Follows from premises there is no God. 
+
+The argument here that O’Connor provides is that atheism provides a better explanation of [[Alex O'Connor vs. Jonathan McLatchie#^b1f408|non-resistant non-belief]] than theism. Operating under the presupposition that a god does not exist explains perfectly well why people who’ve devoted themselves to the concept of a god still do not find him.
