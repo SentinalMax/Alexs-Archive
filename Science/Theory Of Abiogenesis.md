@@ -19,7 +19,6 @@ Essentially, abiogenesis is the idea that the first life forms on earth (insert 
 - [ ] #task Research why it's the case that the current atmospheric conditions do not allow new life to be created through abiogenesis.
 
 
-
 ---
 ### Related:
 

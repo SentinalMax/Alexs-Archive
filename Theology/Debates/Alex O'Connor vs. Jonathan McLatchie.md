@@ -28,12 +28,32 @@ Behe makes a comparison to a mousetrap, which if you remove a part of the mouset
 
 **The problem:** Behe assumes that function is intrinsic to the object, but it is not. Objects can have multiple different functions. If you remove one or two pieces of a mousetrap it may no longer function as a mousetrap but it could function as other things like a tie clip or paper clip, etc... The point here is not that it'd be a good tie clip by the way. The main point is that none of this proves something that's "irreducibly complex" couldn't have come together from a small series of steps. It would've had to just have a different function before it came to have its current properties. 
 
-Take for example the human eye, eyes began to exist as really simplistic photo receptors [[link to eye evolution here]] which could detect light and dark, this was a useful adaptation because it allowed organisms to adjust various functions in accordance with the time of day, including hunting, feeding, breeding, etc... Over time, the eye became more complex, endowing organisms with the potential to perceive their surrounding environment to a higher degree of accuracy.
+Take for example the human eye. Eyes began to exist as really simplistic photo receptors [[link to eye evolution here]] which could differentiate between light and dark, this was a useful adaptation because it allowed organisms to adjust various functions in accordance with the time of day, including hunting, feeding, breeding, etc... Over time, the eye became more complex, endowing organisms with the potential to perceive their surrounding environment to a higher degree of accuracy.
 
 This serious flaw in Behe's argument was brought to light by the [Kitzmiller v. Dover case](https://ncse.ngo/remembering-kitzmiller-v-dover#:~:text=In%202005%2C%20parents%2C%20teachers%2C,schools%20violates%20the%20U.S.%20Constitution.).
 * *"In 2005, parents, teachers, and scientists from around the country came together in **Kitzmiller v. Dover** to defend the integrity of the public science classroom. The result: a decision that teaching "intelligent design" in public schools violates the U.S. Constitution."*
 
 This notion has been debunked so many times.
-- [ ] #task Research / debunk irreducible complexity.
+- [x] #task Research / debunk irreducible complexity. ✅ 2024-05-19
+
+### [[Paley’s Watchmaker Thesis]] 
+
+- [ ] #task Research good rebuttals to watchmaker analogy.
+
+# O’Connor Opening Statements
+
+## Evidence Against Theism
+
+### [Problem Of Devine Hiddenness](https://iep.utm.edu/divine-hiddenness-argument-against-gods-existence/#:~:text=So%2C%20the%20core%20of%20Schellenberg's,that%20God%20does%20not%20exist.)
+
+*“A nonbelief phenomenon could include patterns of nonbelief, such as the <mark style="background: #BBFABBA6;">geographic or temporal distribution of nonbelief</mark>, as well as different **kinds** of nonbelief, such as “nonresistant” or “reasonable” nonbelief.”* – [Passage](https://iep.utm.edu/divine-hiddenness-argument-against-gods-existence/#:~:text=A%20nonbelief%20phenomenon%20could%20include%20patterns%20of%20nonbelief%2C%20such%20as%20the%20geographic%20or%20temporal%20distribution%20of%20nonbelief%2C%20as%20well%20as%20different%20kinds%20of%20nonbelief%2C%20such%20as%20%E2%80%9Cnonresistant%E2%80%9D%20or%20%E2%80%9Creasonable%E2%80%9D%20nonbelief.)
+
+O’Connor outlines that some people are never introduced to the conception of the Christian god. 
+
+P1) if there is a god he is perfectly loving
+P2) if a perfectly loving god exists non resistant non belief does not occur
+P3) non resistant non belief does occur
+P4) no perfectly loving god exists
+C) there is no god
 
 Paused @ 9:47
