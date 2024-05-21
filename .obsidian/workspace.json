@@ -49,8 +49,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9225205f2ad33f02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quick Debate Dictionary.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quick Debate Dictionary.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quick Debate Dictionary.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -206,10 +219,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "5c05783df58bfb17",
+  "active": "9225205f2ad33f02",
   "lastOpenFiles": [
-    "Source Storage.md",
     "Quick Debate Dictionary.md",
+    "conflict-files-obsidian-git.md",
+    "Source Storage.md",
     "Theology/Debates/Alex O'Connor vs. Jonathan McLatchie.md",
     "Science/Theory Of Abiogenesis.md",
     "Theology/Kalam Cosmological Argument.md",
