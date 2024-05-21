@@ -26,11 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "Source Storage.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ae5b059206c12155",
+        "type": "tabs",
+        "children": [
           {
             "id": "5c05783df58bfb17",
             "type": "leaf",
@@ -93,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e48c778d3893b918",
@@ -110,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theology/Debates/Alex O'Connor vs. Jonathan McLatchie.md",
+                "file": "Quick Debate Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theology/Debates/Alex O'Connor vs. Jonathan McLatchie.md",
+                "file": "Quick Debate Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theology/Debates/Alex O'Connor vs. Jonathan McLatchie.md"
+                "file": "Quick Debate Dictionary.md"
               }
             }
           },
@@ -200,11 +206,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "350d57c11f182837",
+  "active": "5c05783df58bfb17",
   "lastOpenFiles": [
+    "Source Storage.md",
     "Quick Debate Dictionary.md",
     "Theology/Debates/Alex O'Connor vs. Jonathan McLatchie.md",
-    "Source Storage.md",
     "Science/Theory Of Abiogenesis.md",
     "Theology/Kalam Cosmological Argument.md",
     "TODO.md",

@@ -21,6 +21,11 @@ You can find those [here](https://scihub.help/)
 	- Legal alternative to Sci-Hub.
 
 ---
+#### Access To Literature
+
+Current alias domains are [libgen.rs](http://libgen.rs/), [libgen.is](http://libgen.is/), [libgen.st](http://libgen.st/). Update your bookmarks!
+
+---
 ### Theology
 
 * [Amdir's Source Storage](https://drive.google.com/drive/folders/1mytSVi4Wgqn-RySI4xK1u1JBRmoX2Lmq)
