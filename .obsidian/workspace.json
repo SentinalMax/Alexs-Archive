@@ -18,8 +18,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a26ba62a069f47fc",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Theology/Debates/Alex O'Connor vs. Jonathan McLatchie.md",
+                "staged": true
+              }
+            }
+          },
+          {
+            "id": "fef8a0a32381e881",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theology/Debates/Alex O'Connor vs. Jonathan McLatchie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theology/Debates/Alex O'Connor vs. Jonathan McLatchie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Theology/Debates/Alex O'Connor vs. Jonathan McLatchie.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,9 +172,17 @@
               "type": "smart-connections-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "7cbd02dd97fbc22b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -174,17 +202,17 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "726508a1b931b72f",
+  "active": "a26ba62a069f47fc",
   "lastOpenFiles": [
+    "Quick Debate Dictionary.md",
+    "conflict-files-obsidian-git.md",
+    "Theology/Debates/Alex O'Connor vs. Jonathan McLatchie.md",
     "Templates/Standard Page Template.md",
     "Science/Theory Of Abiogenesis.md",
     "Science/The Teleology Of Evolution.md",
     "Science/Flat Earth.md",
     "Science/Cosmology.md",
     "Source Storage.md",
-    "Theology/Debates/Alex O'Connor vs. Jonathan McLatchie.md",
-    "Quick Debate Dictionary.md",
-    "conflict-files-obsidian-git.md",
     "Theology/Kalam Cosmological Argument.md",
     "TODO.md",
     "Theology/God of The Gaps.md",

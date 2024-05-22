@@ -1,7 +1,5 @@
-.smart-connections
 .obsidian/plugins/smart-connections/data.json
-
-
+.DS_Store
 
 # Ignore Smart Connections folder
 .smart-connections
