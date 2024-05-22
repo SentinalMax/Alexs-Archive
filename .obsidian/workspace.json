@@ -25,25 +25,12 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Theology/Debates/Alex O'Connor vs. Jonathan McLatchie.md",
-                "staged": true
-              }
-            }
-          },
-          {
-            "id": "fef8a0a32381e881",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": true
+                "staged": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Theology/Debates/Alex O'Connor vs. Jonathan McLatchie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Theology/Debates/Alex O'Connor vs. Jonathan McLatchie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Theology/Debates/Alex O'Connor vs. Jonathan McLatchie.md"
+              }
             }
           },
           {
@@ -202,7 +193,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "a26ba62a069f47fc",
+  "active": "726508a1b931b72f",
   "lastOpenFiles": [
     "Quick Debate Dictionary.md",
     "conflict-files-obsidian-git.md",
