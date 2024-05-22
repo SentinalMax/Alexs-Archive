@@ -64,11 +64,11 @@ P4) No perfectly loving god exists
 C) There is no god
 ##### Breakdown:
 
-P1) Appeals to God’s omni-benevolence property.
+P1) Appeals to God’s omnibenevolence property.
 P2) A perfectly loving god (one that wants a relationship with everyone) would not permit non-resistant non-belief.
 P3) Experiential evidence suggests people exist that have sought out God and not found him & continue to remain absent of his presence.
-P4) Because a perfectly loving God would seek a relationship with those who want it, a perfectly loving God does not exist
-C) Follows from premises there is no God. 
+P4) Because a perfectly loving God would seek a relationship with those who want it, a perfectly loving God does not exist.
+C) Follows from premises there is no God.
 
 The argument here that O’Connor provides is that atheism provides a better explanation of [[Alex O'Connor vs. Jonathan McLatchie#^b1f408|non-resistant non-belief]] than theism. Operating under the presupposition that a god does not exist explains perfectly well why people who’ve devoted themselves to the concept of a god still do not find him.
 ### Geographical Predictability Of Religious Belief
