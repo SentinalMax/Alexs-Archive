@@ -2,7 +2,6 @@
 
 *A comprehensive list of definitions and resources for philosophical debates.*
 ## Terminology
-
 ### Debate:
 
 * **Axiomatic** - Self-evident
@@ -86,8 +85,8 @@
 
 * [**Pascal’s Wager**](https://en.wikipedia.org/wiki/Pascal%27s_wager) - *”Pascal's Wager argues that it is more rational to believe in God than not, because if God exists, the believer gains eternal happiness, while the non-believer risks eternal damnation. Conversely, if God does not exist, the believer loses nothing significant, making belief the safer and more beneficial bet.”*
 
-* existent = anything with quantifyable properties
-reality = all things as they present in the current state of affairs
+* existent = anything with quantifiable properties.
+* reality = all things as they present in the current state of affairs.
 ### Logic:
 
 1. **The Law of Identity** - Anything that has been determined to be true, must be identical to itself and different from other things.
