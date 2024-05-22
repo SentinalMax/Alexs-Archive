@@ -1,20 +1,32 @@
 {
   "main": {
-    "id": "c71f5f178d109236",
+    "id": "e153cc7e989d75da",
     "type": "split",
     "children": [
       {
-        "id": "8d2608490e543c9a",
+        "id": "d203e4f80f52ffd0",
         "type": "tabs",
         "children": [
           {
-            "id": "726508a1b931b72f",
+            "id": "97e910b170b2c3a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Quick Debate Dictionary.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "076c470d77a28289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theology/Debates/Alex O'Connor vs. Jonathan McLatchie.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4f6ab868650e11d9",
+    "id": "5869656b7450b22c",
     "type": "split",
     "children": [
       {
-        "id": "2333467c5a1f63fa",
+        "id": "4c44701e77be80ed",
         "type": "tabs",
         "children": [
           {
-            "id": "d803d667269e996d",
+            "id": "ba07540f934280b0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +55,7 @@
             }
           },
           {
-            "id": "8b2515e9627949b7",
+            "id": "fc6a6f389aed7ab6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +70,7 @@
             }
           },
           {
-            "id": "fc03e599464b42e7",
+            "id": "c6ef3f76c48d082b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,18 +81,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 207.5
   },
   "right": {
-    "id": "e48c778d3893b918",
+    "id": "e90cbf4c83ca7cf5",
     "type": "split",
     "children": [
       {
-        "id": "bfa00248ea50fc00",
+        "id": "f302869911e572f2",
         "type": "tabs",
         "children": [
           {
-            "id": "cc3f5efd342bfe1f",
+            "id": "a80031cc004f2e24",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +109,7 @@
             }
           },
           {
-            "id": "81ca4bdd1a178e0a",
+            "id": "edbdb7d91937aecf",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +121,7 @@
             }
           },
           {
-            "id": "4122d3811ac9328e",
+            "id": "4ed4dbbc91dae3e2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +132,7 @@
             }
           },
           {
-            "id": "350d57c11f182837",
+            "id": "a034cf08cfff856d",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -130,7 +142,7 @@
             }
           },
           {
-            "id": "d27fe665b709219e",
+            "id": "c375689d4240fe0f",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -138,7 +150,7 @@
             }
           },
           {
-            "id": "9b7866b3d1685e5a",
+            "id": "596520036165916d",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -146,68 +158,52 @@
             }
           },
           {
-            "id": "b74961617df9ae42",
+            "id": "63e5e9f5c6c7b2b5",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
               "state": {}
             }
-          },
-          {
-            "id": "7cbd02dd97fbc22b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
       "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
       "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false,
       "templater-obsidian:Templater": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "726508a1b931b72f",
+  "active": "97e910b170b2c3a9",
   "lastOpenFiles": [
     "Theology/Debates/Alex O'Connor vs. Jonathan McLatchie.md",
     "Quick Debate Dictionary.md",
-    "conflict-files-obsidian-git.md",
-    "Templates/Standard Page Template.md",
     "Science/Theory Of Abiogenesis.md",
-    "Science/The Teleology Of Evolution.md",
-    "Science/Flat Earth.md",
+    "smart-chats",
+    "Templates/Standard Page Template.md",
+    "Templates",
     "Science/Cosmology.md",
+    "Science/Flat Earth.md",
+    "Science/Quantum Physics.md",
+    "Science/The Teleology Of Evolution.md",
     "Source Storage.md",
     "Theology/Kalam Cosmological Argument.md",
     "TODO.md",
     "Theology/God of The Gaps.md",
-    "link to eye evolution here.md",
-    "Science/Quantum Physics.md",
-    "Theology/Debates",
-    "New folder",
-    "LICENSE",
-    "README.md",
-    "smart-chats/UNTITLED CHAT 2024-05-18 22 07 15.md",
-    "smart-chats",
-    "Templates",
-    "Welcome.md",
-    "Science",
-    "Philosophy",
-    "Theology"
+    "[[Quick Debate Dictionary.md",
+    "Theology/Debates"
   ]
 }
