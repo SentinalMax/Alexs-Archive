@@ -85,7 +85,7 @@
 
 * [**Pascal’s Wager**](https://en.wikipedia.org/wiki/Pascal%27s_wager) - *”Pascal's Wager argues that it is more rational to believe in God than not, because if God exists, the believer gains eternal happiness, while the non-believer risks eternal damnation. Conversely, if God does not exist, the believer loses nothing significant, making belief the safer and more beneficial bet.”*
 
-* Reality - All things within the current state of affairs
+* Reality - All things within the current state of affairs.
 * Existence - having properties.
 ### Logic:
 
